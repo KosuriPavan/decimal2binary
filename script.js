@@ -8,7 +8,7 @@ function decimalToBinary(num) {
 // 	  binary = (num%2)+binary;
 // 	  num = Math.floor(num/2);
 //   }
-  
-}
+// 
+// }
 
 window.decimalToBinary = decimalToBinary;
